@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetSqlServerPriority", "SetSqlServerPriority\SetSqlServerPriority.csproj", "{723752E6-75F0-431D-A7DA-5E607F1F30AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723752E6-75F0-431D-A7DA-5E607F1F30AE}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{723752E6-75F0-431D-A7DA-5E607F1F30AE}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{723752E6-75F0-431D-A7DA-5E607F1F30AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723752E6-75F0-431D-A7DA-5E607F1F30AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4799A3-5ABB-4FF6-84A4-B0BF12E8CE16}
+	EndGlobalSection
+EndGlobal
