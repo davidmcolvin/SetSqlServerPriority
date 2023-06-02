@@ -39,6 +39,7 @@ namespace SetSqlServerPriority
     {
       log.Debug("OnStop");
       timer.Stop();
+      timer.Dispose();
     }
 
     // This will be called every minute
